@@ -1,0 +1,7 @@
+{
+  "name": "La Fabrik Audio",
+  "description": "Agence de production audio spécialisée dans le podcast de marque, le brand content et la formation audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
